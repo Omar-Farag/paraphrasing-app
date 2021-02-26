@@ -2,6 +2,8 @@
 
 ## Simple UI to use the pegasus pretrained model for paraphrasing.
 
+### Installation/Usage Steps
+
 1- Download and install git-lfs
  - link: https://git-lfs.github.com/
 
