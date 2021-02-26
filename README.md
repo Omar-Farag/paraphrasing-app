@@ -19,3 +19,8 @@
 6- python api.py
 
 6- Start ParaphraserApp.exe
+
+
+### Screenshot for the App
+
+![App-screenshot](https://user-images.githubusercontent.com/49901445/109365504-0179fa80-789a-11eb-96c3-eec1cfcbc679.png)
